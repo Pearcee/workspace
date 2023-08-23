@@ -1,3 +1,3 @@
 print(10)
 
-for     
+print(6) 

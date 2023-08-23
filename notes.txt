@@ -1,0 +1,8 @@
+    1  git config --global user.name "Steve"
+    2  git config --global user.email null@gmail.com
+
+   14  sudo apt  update
+   16  sudo apt  upgrade
+   17  sudo apt install python3
+   19  history
+   20  history >> notes.txt 
