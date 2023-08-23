@@ -1,5 +1,5 @@
-    1  git config --global user.name "Steve"
-    2  git config --global user.email null@gmail.com
+git config --global user.name "Steve"
+git config --global user.email sjpearce@gmail.com
 
    14  sudo apt  update
    16  sudo apt  upgrade
