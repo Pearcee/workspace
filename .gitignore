@@ -1,2 +1,5 @@
 secret.txt
 dev-environment-from-csv/*
+env/
+.env
+
