@@ -2,4 +2,4 @@ secret.txt
 dev-environment-from-csv/*
 env/
 .env
-
+__pycache__
